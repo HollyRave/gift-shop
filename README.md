@@ -16,8 +16,8 @@ You may also see any lint errors in the console.
 
 ### `npm run server`
 
-Running a local json-server
-\Open [http://localhost:3001/goods](http://localhost:3001/goods) to view it in your browser.
+Running a local json-server\
+Open [http://localhost:3001/goods](http://localhost:3001/goods) to view it in your browser.
 
 ### `npm run build`
 
